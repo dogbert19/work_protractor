@@ -1,0 +1,5 @@
+﻿npm setup
+cmd  >>> npm install -g protractor
+cmd  >>  webdriver-manager update и webdriver-manager start
+cmd  >>  C:\Users\Aggregion\Desktop\protractor
+cmd  >>  protractor conf.js
